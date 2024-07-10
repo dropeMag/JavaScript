@@ -1,0 +1,5 @@
+let n = 10;
+
+console.log(n++); // VAI PRIMEIRO RETORNAR O 10 E DEPOIS INCREMENTAR
+
+console.log(++n); // VAI PRIMEIRO INCREMENTAR E DEPOIS RETORNAR O N
